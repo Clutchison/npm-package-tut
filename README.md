@@ -16,8 +16,6 @@ https://pnpm.io/installation
 ### changeset
 `pnpm add -D @changesets/cli`
 
-tsup is used to bundle and create js files.
-
 ## Files
 
 ### package.json
